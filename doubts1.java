@@ -2,6 +2,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 class Main{
     public static void main(String[] args) {
+        System.out.println("this is a test print");
 
         Scanner scanner=new Scanner(System.in);
         
