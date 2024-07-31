@@ -19,6 +19,9 @@ class Doubt2{
     }
     
 }
+
+//Doubt2.java
+
 //What are these warnings?
 
 // Type safety: The expression of type ArrayList needs unchecked conversion to conform to ArrayList<ArrayList<String>>
